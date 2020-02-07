@@ -15,7 +15,10 @@ body {
 }
 
 .container p {
-  color: skyblue;
+  color: skyblue; 
+  font-size: 14px; 
+  font-family: monospace; 
+  font-style: normal;
 }
 
 .container h2 {
