@@ -1,2 +1,3 @@
-# css101examples
-A comparison of inline, internal and external styling with CSS. Look at the code in each of the HTML files to see the difference between the three ways of styling with CSS. All three look exactly the same in the browswer. 
+# Kel's Resume
+This is a HTML resume to show some of the things we learned in class. I will display how tags, selectors, images and links are defined on website. THe resume only displays my most recent
+job. I included some of th skills I obtain to increase my value to business owners. 
